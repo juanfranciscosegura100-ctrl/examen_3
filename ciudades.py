@@ -1,5 +1,6 @@
 # Programa que imprime ciudades colombianas
-print("Cali")
 print("Cartagena")
 print("Pereira")
 print("Barranquilla")
+print("Manizales")
+print("Santa Marta")
