@@ -16,3 +16,8 @@
 | Python | Usar print | Crear programas |
 
 Aprendí mucho :rocket: :computer:
+## Ejemplo de python:
+
+```python
+print("Hola, Javeriana")
+```
